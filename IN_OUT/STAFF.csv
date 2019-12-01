@@ -1,0 +1,87 @@
+staff_id,name,level,real_level,crew
+cr1_1,Nguyen Huu Nam,B2,B2,1
+cr1_2,Dinh Hung Dao,B1,B1,1
+cr1_3,Dinh Hoang Quan,B1,B1L,1
+cr1_4,Nguyen Long,A,A2,1
+cr1_5,Nguyen Van Tri,A,A2,1
+cr1_6,Nguyen Thanh Danh,A,A1L3,1
+cr1_7,Le Minh Dung,A,A1,1
+cr1_8,Duong Thanh Son,MC,MECH,1
+cr1_9,Nguyen Khanh Toan,MC,MECH,1
+cr1_10,Phan Ngoc Tuan,MC,MECH,1
+cr1_11,Le Huu Tai,MC,MECH,1
+cr2_1,Nguyen Chi Thanh,B2,B2,2
+cr2_2,Nguyen Thai Hoang,B1,B1L,2
+cr2_3,Le Duc Duy,B1,B1,2
+cr2_4,Nguyen Phan Thuong Khanh,A,A2,2
+cr2_5,Nguyen Van Ngoc,A,A1L3,2
+cr2_6,Huynh Nguyen Thai Hoa,A,A2L2,2
+cr2_7,Duong Tuan Hoang,MC,MECH,2
+cr2_8,Nguyen Duy Minh,MC,MECH,2
+cr2_9,Dang Tuan Anh,MC,MECH,2
+cr2_10,Tran Tuan Anh,MC,MECH,2
+cr3_1,Tran Danh Hoa,B2,B2,3
+cr3_2,Hoang Hao Tham,B1,B1,3
+cr3_3,Thai Nhat Phu,B1,B1L,3
+cr3_4,Pham Van Cuong,A,A2L2,3
+cr3_5,Phan Tien Tai,A,A2L3,3
+cr3_6,Tran Dinh Quan,MC,MECH,3
+cr3_7,Tran Duc Du,MC,MECH,3
+cr3_8,Le Kim Quoc,MC,MECH,3
+cr3_9,Doan Quoc Bao,MC,MECH,3
+cr4_1,Nguyen Viet Trung,B2,B2,4
+cr4_2,Le Viet Hai,B1,B1L,4
+cr4_3,Nguyen Van Khai,A,A1L3,4
+cr4_4,Dao Duy Thien,A,A1,4
+cr4_5,Bui Huu Duc,A,A2L1,4
+cr4_6,Nguyen Minh Tri,A,A1,4
+cr4_7,Nguyen Van Thien,MC,MECH,4
+cr4_8,Nguyen Ha Minh Hoang,MC,MECH,4
+cr4_9,Truong Van Thuan,MC,MECH,4
+cr4_10,Nguyen Van Tien,MC,MECH,4
+cr5_1,Tran Quang Nam,B2,B2,5
+cr5_2,Tong Thanh Son,B2,B2,5
+cr5_3,Nguyen Minh Duc,B1,B1,5
+cr5_4,Do Quang Hung,A,A1,5
+cr5_5,Nguyen Van Dang,A,A1,5
+cr5_6,Hoang Ngoc Thanh,A,A1L2,5
+cr5_7,Phung Khanh Hung,A,A2L2,5
+cr5_8,Nguyen Thien Tan,A,A1,5
+cr5_9,Nguyen Thanh Phu,MC,MECH,5
+cr5_10,Pham Tuan Anh,MC,MECH,5
+cr5_11,Huynh Tan Nha,MC,MECH,5
+cr6_1,Nguyen Kim Chat,B2,B2,6
+cr6_2,Vu Manh Cuong,B2,B2L,6
+cr6_3,Tran Duy Dung,B1,B1,6
+cr6_4,Nguyen Hong Tu,B1,B1L,6
+cr6_5,Trinh Quoc Viet,A,A2L3,6
+cr6_6,Nguyen Anh Vu,A,A1L2,6
+cr6_7,Nguyen Linh Vu,A,A1L1,6
+cr6_8,Le Trong Tien,A,A2L2,6
+cr6_9,Vu Quoc Cong,MC,MECH,6
+cr6_10,Phan Duc Thinh,MC,MECH,6
+cr6_11,Trinh Xuan Viet,MC,MECH,6
+cr7_1,Nguyen Hoang Viet,B2,B2,7
+cr7_2,Le Anh Tu,B1,B1,7
+cr7_3,Tran Quoc Hung,B1,B1L,7
+cr7_4,Vu Ke Trung,A,A1,7
+cr7_5,Tran Cong Quan,A,A1,7
+cr7_6,Vo Minh Phuc Tai,A,A2L1,7
+cr7_7,Trinh Nhut Tri,A,A1L3,7
+cr7_8,Lam Vi,MC,MECH,7
+cr7_9,To Huy Hoang,MC,MECH,7
+cr7_10,Nguyen Van Tuan,MC,MECH,7
+cr8_1,Tran Anh Duy,B2,B2,8
+cr8_2,Tran Van Thanh 1,B1,B1,8
+cr8_3,Huynh Hoang An,B1,B1L,8
+cr8_4,Tran Minh Thang,A,A1L3,8
+cr8_5,Pham Van Tuyen,A,A1,8
+cr8_6,Ngo Minh Dung,A,A1L2,8
+cr8_7,Nguyen Raman Minh Huy,A,A1L2,8
+cr8_8,Tran Van Thanh 2,MC,MECH,8
+cr8_9,Nguyen Tran Dung,MC,MECH,8
+cr8_10,Tran Quang Tuan,MC,MECH,8
+dmm_1,Nguyen Cong Phuoc,DMM,B2,0
+dmm_2,Bui Quoc Can,DMM,B1,0
+dmm_3,Nguyen Dac Tho,DMM,B1,0
+dmm_4,Huynh Tien Dang,DMM,B1,0
