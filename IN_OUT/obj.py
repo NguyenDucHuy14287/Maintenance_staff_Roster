@@ -192,22 +192,24 @@ class crew:
         
         for i in range(1,self.number_of_crew+1):    #except crew DMM
             for j in range(1,day+1):
-                schedule_value = 'D'        #need to do
+                if j%8 == i%8:
+                    schedule_value = 'D'
+                elif j%8 in [(i+1)%8,(i+2)%8,(i+3)%8]:
+                    schedule_value = 'N'
+                else:
+                    schedule_value = 'O'
 
                 for k in self.crew_members:
                     if self.crew_info[k].crew_number == i:
                         self.crew_info[k].set_staff_schedule(j,schedule_value)
 
 
-        
-
 class roster:       ##no need
     "Define roster schedule format"
 
     def __init__(self,month_path,staff_path):
         self.roster_info = None #evalueate 
-        self.month_info = None  #requirement
-        self.crew_info = None   #staff schedule
+        self.month_info, self.crew_info = process_roster_info(month_path,staff_path)
 
     def process_roster_info(self,month_path,staff_path):
         month_info = month(month_path)
